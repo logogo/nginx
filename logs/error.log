@@ -1,0 +1,9 @@
+2023/02/26 11:11:56 [error] 10336#5920: *1 CreateFile() "F:\test\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/02/26 11:16:58 [notice] 8472#6264: signal process started
+2023/02/26 11:28:00 [notice] 920#10760: signal process started
+2023/02/26 11:28:08 [notice] 3148#7132: signal process started
+2023/02/26 11:28:08 [error] 3148#7132: CreateFile() "F:\test\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/02/26 11:29:10 [notice] 7008#9884: signal process started
+2023/02/26 11:29:39 [notice] 8772#11332: signal process started
+2023/02/26 12:09:06 [notice] 8396#3188: signal process started
+2023/02/26 12:13:39 [notice] 10480#5892: signal process started
