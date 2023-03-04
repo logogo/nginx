@@ -1,3 +1,7 @@
 1.nginx -s stop      强制关闭nginx，不管当前是否有任务执行
 2.nginx -s reload
 3.nginx -s quit     优雅关闭nginx，会在执行完成当前的任务后再退出
+
+
+
+nginx代理 本质上是服务请求服务
